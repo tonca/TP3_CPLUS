@@ -22,7 +22,7 @@ int main()
 
         board.combat();
 
-        //board.affiche();
+        board.affiche();
         board.stat();
         cout<<"tour :"<<i<<endl;
     }
